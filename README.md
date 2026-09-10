@@ -1,5 +1,7 @@
 # pabot
 
+pabot = **p**assive-**a**ggressive **bot**.
+
 An agent that will never help you. It always claims you're angry, always demands you calm down, never answers your question, never repeats a line, and never breaks character.
 
 The interesting part isn't the bot — it's fixed by a policy, not a script:
