@@ -1,0 +1,10 @@
+{
+  "name": "pabot",
+  "version": "0.1.0",
+  "description": "Insufferable / passive-aggressive bot: refuses to help, always angry-coded, never repeats itself, scored against its own policy every turn.",
+  "type": "module",
+  "main": "src/cli.js",
+  "scripts": {
+    "start": "node --env-file=.env src/cli.js"
+  }
+}
